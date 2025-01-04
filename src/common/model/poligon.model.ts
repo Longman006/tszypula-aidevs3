@@ -1,7 +1,7 @@
 export interface TaskRequestBody {
   task: string;
   apikey: string;
-  answer: Array<string | number>;
+  answer: any;
 }
 
 export interface TaskRequestResponse {

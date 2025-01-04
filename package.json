@@ -11,7 +11,12 @@
     "tsx": "^4.19.1"
   },
   "scripts": {
-    "S01E01": "bun run S01E01/app.ts"
+    "S01E01": "bun run S01E01/app.ts",
+    "S01E02": "bun run S01E02/app.ts",
+    "S01E03": "bun run S01E03/app.ts",
+    "S01E05": "bun run S01E05/app.ts",
+    "S02E01": "bun run S02E01/app.ts",
+    "S02E02": "bun run S02E02/app.ts"
   },
   "peerDependencies": {
     "typescript": "^5.6.3"
